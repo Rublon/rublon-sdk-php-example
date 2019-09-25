@@ -1,0 +1,11 @@
+{
+    "require": {
+        "rublon/rublon-sdk-php": "@dev"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Rublon/rublon-sdk-php"
+        }
+    ]
+}

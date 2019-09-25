@@ -1,0 +1,76 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "2af4f28f772ba2cb77771ff24a0d2f89",
+    "packages": [
+        {
+            "name": "rublon/rublon-sdk-php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Rublon/rublon-sdk-php",
+                "reference": "45124b4d6b7eda12fa7bcbfd6b52cdee02fb54e8"
+            },
+            "require": {
+                "lib-curl": "*",
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Rublon\\": "Rublon/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Rublon",
+                    "email": "hello@rublon.com"
+                }
+            ],
+            "description": "Instant account security with effortless, email-based two-factor authentication; optional mobile app for more security; no tokens",
+            "homepage": "https://github.com/Rublon/rublon-sdk-php",
+            "keywords": [
+                "2 factor authentication",
+                "2 step authentication",
+                "2-Factor",
+                "2-step verification",
+                "2FA",
+                "admin",
+                "authentication",
+                "cell phone",
+                "javascript",
+                "login",
+                "login approval",
+                "login protection",
+                "login verification",
+                "mfa",
+                "mobile",
+                "mobile phone",
+                "multi factor authentication",
+                "password",
+                "qr code",
+                "security",
+                "smartphone",
+                "two step authentication",
+                "two-factor",
+                "two-factor authentication",
+                "two-factor verification",
+                "two-step verification"
+            ],
+            "time": "2019-09-04T10:32:28+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "rublon/rublon-sdk-php": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
